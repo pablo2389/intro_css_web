@@ -1,9 +1,10 @@
-# Ejercicio 1
+# Desafío
 
 Para esta tarea vamos a poner en práctica los conceptos de selectores de CSS.
 
 Los pasos que debemos seguir para conseguir esta tarea, serán:
 
+- Haber realizado el fork de este repositorio y haberlo descargado a su computadora.
 - Generar el HTML pertinente para cada ejemplo
 - Generar el CSS pertinente para cada ejemplo
 - Tratar de replicar los ejemplos mostrados
@@ -13,9 +14,12 @@ El ejercicio está dividido en etapas incrementales, deberá ir realizando una p
 
 Finalmente te invitamos a que una vez que lo hallas logrado, dejes volar tu creatividad y generes otros ejemplos por tu cuenta o trates de integrar los ejemplos antes mostrados.
 
-## Ejercicio 1a
-Para este ejercicio ya cuenta con  el archivo de CSS "style1.css", el cual deberá incluir y llamar en su HTML.\
-- Crear un HTML ejercicio1.html para resolver lo que se solicita a continuación:
+# Enunciado:
+Este enunciado está dividido en tres partes. Para poder publicar el desafío en el sistema de desafíos del campus deberá completar las tres partes que se mencionan a continuación
+
+## Parte 1
+- Crear un HTML index.html para resolver lo que se solicita a continuación
+- Para este ejercicio ya cuenta con  el archivo de CSS "style.css", el cual deberá incluir y llamar en su HTML.
 
 Debe intentar replicar la siguiente imagen de referencia:
 
@@ -27,10 +31,11 @@ Debe intentar replicar la siguiente imagen de referencia:
 - A la etiqueta de precio debe colocarle la clase "price".
 - A la etiqueta de descuento debe colocarle la clase "discount".
 - Agregue el texto de precio y descuento dentro de las etiquetas de parrafo.
+- Concluido los pasos anteriores su página deberá verse de la siguiente forma:
 
 ![ejercicio_1_html](ejercicio_1_html.jpg)
 
-Una vez concluido el HTML se deberá agregar al CSS el siguiente contenido:
+Una vez concluido el punto anterior, deberá agregar al CSS el siguiente contenido:
 - Utilizando un selector por etiqueta, deberá agregar el siguiente contenido CSS que afecte a la etiqueta "body":
 ```
   width: 100%;
@@ -54,8 +59,12 @@ Una vez concluido el HTML se deberá agregar al CSS el siguiente contenido:
   font-size: 16px;
 ```
 
-## Ejercicio 1b
-Tome el ejercicio anterior y modifique su HTML y CSS para intentar replicar la siguiente imagen de referencia:
+Al finalizar esta parte del enunciado, su página se deberá ver similar al siguiente resultado:
+
+![ejercicio_1](ejercicio_1a.jpg)
+
+## Parte 2
+Continuaremos trabajando sobre el mismo archivo HTML (index.html) y archivo CSS. Ahora deberá modificarlos para intentar replicar la siguiente imagen de referencia:
 
 ![ejercicio_1b](ejercicio_1b.jpg)
 
@@ -68,8 +77,12 @@ Para ello deberá agregar al HTML una etiqueta de imagen que toma la imagen de n
   background-color: #343c8a;
 ```
 
-## Ejercicio 1c
-Tome el ejercicio anterior y modifique su HTML y CSS para intentar replicar la siguiente imagen de referencia:
+Al finalizar esta parte del enunciado, su página se deberá ver similar al siguiente resultado:
+
+![ejercicio_1](ejercicio_1b.jpg)
+
+## Parte 3
+Continuaremos trabajando sobre el mismo archivo HTML (index.html) y archivo CSS. Ahora deberá modificarlos para intentar replicar la siguiente imagen de referencia:
 
 ![ejercicio_1c](ejercicio_1c.jpg)
 
@@ -80,3 +93,10 @@ Dejaremos a su criterio e investigación como agregar ese "botón" verde de "COM
 - Debe buscar que el color del texto sea blanco y el fondo verde
 - Debe buscar que al pasar el mouse por encima cambie el ícono tal como sucede cuando uno pasa el mouse por un link (esto para investigar)
 - Debe cambiar el radio del borde para que termine como se ve en la imagen.
+
+Al finalizar esta parte del enunciado, su página se deberá ver similar al siguiente resultado:
+
+![ejercicio_1](ejercicio_1c.jpg)
+
+# Desafio finalizado
+Verificado que todo funciona como se espera, deberá subir al campus el link de su respositorio en el desafio correspondiente para así concluir la realización del mismo.

@@ -9,6 +9,9 @@ Su misión, si decide aceptarla,  es realizar realizar un ejemplo integrador que
 
 Una todo en un solo HTML y CSS, recuerde crear las carpetas asociadas (images, css), colocar las imagenes que utilizará en dicha carpeta y vincular los archivos.
 
+Recuerde que todos los archivos/carpetas que genere para este desafío deben encontrarse dentro de esta carpeta.
+
 La idea es que su sitio web refleje lo indicado en los ejemplos o parte del contenido (use su imaginación ^_^). No es necesario que sea 100% igual, ¡el objetivo es que practique y experimente!
 
-### ¡Mucha suerte! ¡Cualquier duda nos consultan!
+# Desafio finalizado
+Verificado que todo funciona como se espera, deberá subir al campus el link de su respositorio en el desafio correspondiente para así concluir la realización del mismo.
