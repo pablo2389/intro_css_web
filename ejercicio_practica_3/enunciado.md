@@ -17,7 +17,7 @@ Basado en lo visto en clase crear una barra de navegación estilada.
 
 Ejemplo de lo que se requiere:
 
-![ejercicio_3](ejercicio_3.jpg)
+![resultado](resultado.jpg)
 
 Intente acercarse lo más posible. Recuerde crear los archivos necesarios(HTML & CSS) dentro de esta carpeta.
 

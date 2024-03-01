@@ -17,7 +17,7 @@ Basado en el desafío anterior en dónde construyó paso a paso una tarjeta (car
 
 Ejemplo de lo que se requiere:
 
-![ejercicio_2](resultado.jpg)
+![resultado](resultado.jpg)
 
 Intente acercarse lo más posible, puede optar por elegir sus propios colores o tomar los colores de la imagen de referencia.
 

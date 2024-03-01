@@ -23,7 +23,7 @@ Este enunciado está dividido en tres partes. Para poder publicar el desafío en
 
 Debe intentar replicar la siguiente imagen de referencia:
 
-![ejercicio_1](ejercicio_1a.jpg)
+![ejercicio_1](parte_1.jpg)
 
 ¡Ojo! Debe respectar la estructura HTML que se menciona a continuación para que pueda aplicar luego los estilos.
 - Dentro del body generar un articulo ```<article>``` que contenerá todo el contenido de la card.
@@ -33,7 +33,7 @@ Debe intentar replicar la siguiente imagen de referencia:
 - Agregue el texto de precio y descuento dentro de las etiquetas de parrafo.
 - Concluido los pasos anteriores su página deberá verse de la siguiente forma:
 
-![ejercicio_1_html](ejercicio_1_html.jpg)
+![ejercicio_1_html](parte_1_html.jpg)
 
 Una vez concluido el punto anterior, deberá agregar al CSS el siguiente contenido:
 - Utilizando un selector por etiqueta, deberá agregar el siguiente contenido CSS que afecte a la etiqueta "body":
@@ -61,12 +61,12 @@ Una vez concluido el punto anterior, deberá agregar al CSS el siguiente conteni
 
 Al finalizar esta parte del enunciado, su página se deberá ver similar al siguiente resultado:
 
-![ejercicio_1](ejercicio_1a.jpg)
+![ejercicio_1](parte_1.jpg)
 
 ## Parte 2
 Continuaremos trabajando sobre el mismo archivo HTML (index.html) y archivo CSS. Ahora deberá modificarlos para intentar replicar la siguiente imagen de referencia:
 
-![ejercicio_1b](ejercicio_1b.jpg)
+![ejercicio_1b](parte_2.jpg)
 
 Para ello deberá agregar al HTML una etiqueta de imagen que toma la imagen de notebook dentro de la carpeta images. Esta etiqueta deberá estar dentro del articulo (al comienzo)
 
@@ -79,12 +79,12 @@ Para ello deberá agregar al HTML una etiqueta de imagen que toma la imagen de n
 
 Al finalizar esta parte del enunciado, su página se deberá ver similar al siguiente resultado:
 
-![ejercicio_1](ejercicio_1b.jpg)
+![ejercicio_1](parte_2.jpg)
 
 ## Parte 3
 Continuaremos trabajando sobre el mismo archivo HTML (index.html) y archivo CSS. Ahora deberá modificarlos para intentar replicar la siguiente imagen de referencia:
 
-![ejercicio_1c](ejercicio_1c.jpg)
+![ejercicio_1c](parte_3.jpg)
 
 Dejaremos a su criterio e investigación como agregar ese "botón" verde de "COMPRAR". Puede hacerlo tanto con una etiqueta de ```<div>``` como de ```<button>``` (recomendamos en este caso puntual usar div). Debe buscar:
 
@@ -96,7 +96,7 @@ Dejaremos a su criterio e investigación como agregar ese "botón" verde de "COM
 
 Al finalizar esta parte del enunciado, su página se deberá ver similar al siguiente resultado:
 
-![ejercicio_1](ejercicio_1c.jpg)
+![ejercicio_1](parte_3.jpg)
 
 # Desafio finalizado
 Verificado que todo funciona como se espera, deberá subir al campus el link de su respositorio en el desafio correspondiente para así concluir la realización del mismo.
