@@ -1,0 +1,30 @@
+.image-container{
+    background-color: #063206;
+    border: 2px solid #808080;
+    width: 600px;
+    height: 700px;
+    border: 12px solid yellow ;
+    float: center;
+    outline: 2px solid #000; 
+    max-width: 70%;
+    justify-content: center;
+    text-align: center;
+    
+
+    
+    
+    
+    
+}
+div p{
+    color: violet;
+    font-size: larger;
+    align-items: center;
+    margin-right: 10px;
+    text-align: center;
+}
+div h1{
+    color: #008000;
+    text-align: center;
+}
+
