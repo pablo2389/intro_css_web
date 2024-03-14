@@ -1,0 +1,14 @@
+ul {
+    color: brown;
+    
+    background-color: rgb(50, 48, 48);width: 160px;
+    
+    
+}
+ul {
+    
+    list-style: none;
+}
+body{
+    text-align: left;
+}
